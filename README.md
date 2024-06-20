@@ -22,3 +22,14 @@ Below are the first few rows of the dataset:
 | spam     | Free entry in 2 a wkly comp to win FA Cup fina... |
 | ham      | U dun say so early hor... U c already then say... |
 | ham      | Nah I don't think he goes to usf, he lives aro... |
+
+# Machine Learning Algorithms used
+- Decision Tree
+- Naive Bayes
+- K-Nearest Neighbors (KNN)
+
+
+
+
+
+
