@@ -1,6 +1,6 @@
 # Overview
 
-The "Spam Mail Prediction" project aims to build a machine learning model to classify SMS messages as either "spam" or "ham" (non-spam). This project utilizes a dataset of labeled SMS messages to train and evaluate the model.
+The "Spam Mail Prediction" project aims to build a machine learning model to classify mails as either "spam" or "ham" (non-spam). This project utilizes a dataset of labelled SMS messages to train and evaluate the model.
 
 # Dataset
 
